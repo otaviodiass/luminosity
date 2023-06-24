@@ -1,0 +1,1 @@
+Abrindo e fechando cortinas com Python.
